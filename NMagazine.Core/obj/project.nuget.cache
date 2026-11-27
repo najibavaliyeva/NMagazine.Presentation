@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xpCuJ4o49Fc=",
+  "dgSpecHash": "CNsRHtBoiG8=",
   "success": true,
-  "projectFilePath": "D:\\Web Developer\\Backend\\NMagazine.Presentation\\NMagazine.Core\\NMagazine.Core.csproj",
+  "projectFilePath": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Core\\NMagazine.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.11\\microsoft.entityframeworkcore.8.0.11.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.11\\microsoft.entityframeworkcore.abstractions.8.0.11.nupkg.sha512",

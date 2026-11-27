@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NMagazine.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d53dff3e726b5014b58decb492e99efb6acddcce")]
 [assembly: System.Reflection.AssemblyProductAttribute("NMagazine.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NMagazine.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

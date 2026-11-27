@@ -3,47 +3,131 @@
   "WorkspaceRootPath": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Data\\Migrations\\20261127130956_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NMagazine.Data\\Migrations\\20261127130956_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8A710F-72D5-420B-9B8B-77963D80AD3B}|NMagazine.Data\\NMagazine.Data.csproj|d:\\web developer\\backend\\api\\nmagazine.presentation\\nmagazine.data\\migrations\\20261115225029_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8A710F-72D5-420B-9B8B-77963D80AD3B}|NMagazine.Data\\NMagazine.Data.csproj|solutionrelative:nmagazine.data\\migrations\\20261115225029_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16A711B-99B6-475C-BB5F-CAB2A4F3F5ED}|NMagazine.Service\\NMagazine.Service.csproj|d:\\web developer\\backend\\api\\nmagazine.presentation\\nmagazine.service\\dtos\\product\\productgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16A711B-99B6-475C-BB5F-CAB2A4F3F5ED}|NMagazine.Service\\NMagazine.Service.csproj|solutionrelative:nmagazine.service\\dtos\\product\\productgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16A711B-99B6-475C-BB5F-CAB2A4F3F5ED}|NMagazine.Service\\NMagazine.Service.csproj|d:\\web developer\\backend\\api\\nmagazine.presentation\\nmagazine.service\\extensions\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16A711B-99B6-475C-BB5F-CAB2A4F3F5ED}|NMagazine.Service\\NMagazine.Service.csproj|solutionrelative:nmagazine.service\\extensions\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16A711B-99B6-475C-BB5F-CAB2A4F3F5ED}|NMagazine.Service\\NMagazine.Service.csproj|d:\\web developer\\backend\\api\\nmagazine.presentation\\nmagazine.service\\dtos\\category\\categorygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16A711B-99B6-475C-BB5F-CAB2A4F3F5ED}|NMagazine.Service\\NMagazine.Service.csproj|solutionrelative:nmagazine.service\\dtos\\category\\categorygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16A711B-99B6-475C-BB5F-CAB2A4F3F5ED}|NMagazine.Service\\NMagazine.Service.csproj|d:\\web developer\\backend\\api\\nmagazine.presentation\\nmagazine.service\\dtos\\category\\categoryupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16A711B-99B6-475C-BB5F-CAB2A4F3F5ED}|NMagazine.Service\\NMagazine.Service.csproj|solutionrelative:nmagazine.service\\dtos\\category\\categoryupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16A711B-99B6-475C-BB5F-CAB2A4F3F5ED}|NMagazine.Service\\NMagazine.Service.csproj|d:\\web developer\\backend\\api\\nmagazine.presentation\\nmagazine.service\\dtos\\category\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16A711B-99B6-475C-BB5F-CAB2A4F3F5ED}|NMagazine.Service\\NMagazine.Service.csproj|solutionrelative:nmagazine.service\\dtos\\category\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16A711B-99B6-475C-BB5F-CAB2A4F3F5ED}|NMagazine.Service\\NMagazine.Service.csproj|d:\\web developer\\backend\\api\\nmagazine.presentation\\nmagazine.service\\services\\implements\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16A711B-99B6-475C-BB5F-CAB2A4F3F5ED}|NMagazine.Service\\NMagazine.Service.csproj|solutionrelative:nmagazine.service\\services\\implements\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8A710F-72D5-420B-9B8B-77963D80AD3B}|NMagazine.Data\\NMagazine.Data.csproj|d:\\web developer\\backend\\api\\nmagazine.presentation\\nmagazine.data\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8A710F-72D5-420B-9B8B-77963D80AD3B}|NMagazine.Data\\NMagazine.Data.csproj|solutionrelative:nmagazine.data\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DBEFFC-0FF5-47E0-8B46-FDC53538D72F}|NMagazine.Presentation\\NMagazine.Presentation.csproj|d:\\web developer\\backend\\api\\nmagazine.presentation\\nmagazine.presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DBEFFC-0FF5-47E0-8B46-FDC53538D72F}|NMagazine.Presentation\\NMagazine.Presentation.csproj|solutionrelative:nmagazine.presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DBEFFC-0FF5-47E0-8B46-FDC53538D72F}|NMagazine.Presentation\\NMagazine.Presentation.csproj|d:\\web developer\\backend\\api\\nmagazine.presentation\\nmagazine.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DBEFFC-0FF5-47E0-8B46-FDC53538D72F}|NMagazine.Presentation\\NMagazine.Presentation.csproj|solutionrelative:nmagazine.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16A711B-99B6-475C-BB5F-CAB2A4F3F5ED}|NMagazine.Service\\NMagazine.Service.csproj|d:\\web developer\\backend\\api\\nmagazine.presentation\\nmagazine.service\\dtos\\product\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16A711B-99B6-475C-BB5F-CAB2A4F3F5ED}|NMagazine.Service\\NMagazine.Service.csproj|solutionrelative:nmagazine.service\\dtos\\product\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16A711B-99B6-475C-BB5F-CAB2A4F3F5ED}|NMagazine.Service\\NMagazine.Service.csproj|d:\\web developer\\backend\\api\\nmagazine.presentation\\nmagazine.service\\nmagazine.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C16A711B-99B6-475C-BB5F-CAB2A4F3F5ED}|NMagazine.Service\\NMagazine.Service.csproj|solutionrelative:nmagazine.service\\nmagazine.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16A711B-99B6-475C-BB5F-CAB2A4F3F5ED}|NMagazine.Service\\NMagazine.Service.csproj|d:\\web developer\\backend\\api\\nmagazine.presentation\\nmagazine.service\\dtos\\product\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16A711B-99B6-475C-BB5F-CAB2A4F3F5ED}|NMagazine.Service\\NMagazine.Service.csproj|solutionrelative:nmagazine.service\\dtos\\product\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16A711B-99B6-475C-BB5F-CAB2A4F3F5ED}|NMagazine.Service\\NMagazine.Service.csproj|d:\\web developer\\backend\\api\\nmagazine.presentation\\nmagazine.service\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16A711B-99B6-475C-BB5F-CAB2A4F3F5ED}|NMagazine.Service\\NMagazine.Service.csproj|solutionrelative:nmagazine.service\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16A711B-99B6-475C-BB5F-CAB2A4F3F5ED}|NMagazine.Service\\NMagazine.Service.csproj|d:\\web developer\\backend\\api\\nmagazine.presentation\\nmagazine.service\\services\\implements\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16A711B-99B6-475C-BB5F-CAB2A4F3F5ED}|NMagazine.Service\\NMagazine.Service.csproj|solutionrelative:nmagazine.service\\services\\implements\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8A710F-72D5-420B-9B8B-77963D80AD3B}|NMagazine.Data\\NMagazine.Data.csproj|d:\\web developer\\backend\\api\\nmagazine.presentation\\nmagazine.data\\repositories\\implements\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8A710F-72D5-420B-9B8B-77963D80AD3B}|NMagazine.Data\\NMagazine.Data.csproj|solutionrelative:nmagazine.data\\repositories\\implements\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8A710F-72D5-420B-9B8B-77963D80AD3B}|NMagazine.Data\\NMagazine.Data.csproj|d:\\web developer\\backend\\api\\nmagazine.presentation\\nmagazine.data\\migrations\\20261115225029_category.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8A710F-72D5-420B-9B8B-77963D80AD3B}|NMagazine.Data\\NMagazine.Data.csproj|solutionrelative:nmagazine.data\\migrations\\20261115225029_category.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16A711B-99B6-475C-BB5F-CAB2A4F3F5ED}|NMagazine.Service\\NMagazine.Service.csproj|d:\\web developer\\backend\\api\\nmagazine.presentation\\nmagazine.service\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16A711B-99B6-475C-BB5F-CAB2A4F3F5ED}|NMagazine.Service\\NMagazine.Service.csproj|solutionrelative:nmagazine.service\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CEC858-B46C-40F4-B1E4-9B764A88E4B9}|NMagazine.Core\\NMagazine.Core.csproj|d:\\web developer\\backend\\api\\nmagazine.presentation\\nmagazine.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CEC858-B46C-40F4-B1E4-9B764A88E4B9}|NMagazine.Core\\NMagazine.Core.csproj|solutionrelative:nmagazine.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8A710F-72D5-420B-9B8B-77963D80AD3B}|NMagazine.Data\\NMagazine.Data.csproj|d:\\web developer\\backend\\api\\nmagazine.presentation\\nmagazine.data\\repositories\\implements\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8A710F-72D5-420B-9B8B-77963D80AD3B}|NMagazine.Data\\NMagazine.Data.csproj|solutionrelative:nmagazine.data\\repositories\\implements\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8A710F-72D5-420B-9B8B-77963D80AD3B}|NMagazine.Data\\NMagazine.Data.csproj|d:\\web developer\\backend\\api\\nmagazine.presentation\\nmagazine.data\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8A710F-72D5-420B-9B8B-77963D80AD3B}|NMagazine.Data\\NMagazine.Data.csproj|solutionrelative:nmagazine.data\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8A710F-72D5-420B-9B8B-77963D80AD3B}|NMagazine.Data\\NMagazine.Data.csproj|d:\\web developer\\backend\\api\\nmagazine.presentation\\nmagazine.data\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8A710F-72D5-420B-9B8B-77963D80AD3B}|NMagazine.Data\\NMagazine.Data.csproj|solutionrelative:nmagazine.data\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CEC858-B46C-40F4-B1E4-9B764A88E4B9}|NMagazine.Core\\NMagazine.Core.csproj|d:\\web developer\\backend\\api\\nmagazine.presentation\\nmagazine.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CEC858-B46C-40F4-B1E4-9B764A88E4B9}|NMagazine.Core\\NMagazine.Core.csproj|solutionrelative:nmagazine.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8A710F-72D5-420B-9B8B-77963D80AD3B}|NMagazine.Data\\NMagazine.Data.csproj|d:\\web developer\\backend\\api\\nmagazine.presentation\\nmagazine.data\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8A710F-72D5-420B-9B8B-77963D80AD3B}|NMagazine.Data\\NMagazine.Data.csproj|solutionrelative:nmagazine.data\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8A710F-72D5-420B-9B8B-77963D80AD3B}|NMagazine.Data\\NMagazine.Data.csproj|d:\\web developer\\backend\\api\\nmagazine.presentation\\nmagazine.data\\nmagazine.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E8A710F-72D5-420B-9B8B-77963D80AD3B}|NMagazine.Data\\NMagazine.Data.csproj|solutionrelative:nmagazine.data\\nmagazine.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16A711B-99B6-475C-BB5F-CAB2A4F3F5ED}|NMagazine.Service\\NMagazine.Service.csproj|d:\\web developer\\backend\\api\\nmagazine.presentation\\nmagazine.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16A711B-99B6-475C-BB5F-CAB2A4F3F5ED}|NMagazine.Service\\NMagazine.Service.csproj|solutionrelative:nmagazine.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DBEFFC-0FF5-47E0-8B46-FDC53538D72F}|NMagazine.Presentation\\NMagazine.Presentation.csproj|d:\\web developer\\backend\\api\\nmagazine.presentation\\nmagazine.presentation\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DBEFFC-0FF5-47E0-8B46-FDC53538D72F}|NMagazine.Presentation\\NMagazine.Presentation.csproj|solutionrelative:nmagazine.presentation\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\AppData\\Roaming\\Microsoft\\UserSecrets\\aee8abb6-7f56-41d9-9cdc-48c357f8b301\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Data\\Migrations\\20261115225029_Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NMagazine.Data\\Migrations\\20261115225029_Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20DBEFFC-0FF5-47E0-8B46-FDC53538D72F}|NMagazine.Presentation\\NMagazine.Presentation.csproj|d:\\web developer\\backend\\api\\nmagazine.presentation\\nmagazine.presentation\\nmagazine.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20DBEFFC-0FF5-47E0-8B46-FDC53538D72F}|NMagazine.Presentation\\NMagazine.Presentation.csproj|solutionrelative:nmagazine.presentation\\nmagazine.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Data\\Context\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NMagazine.Data\\Context\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07CEC858-B46C-40F4-B1E4-9B764A88E4B9}|NMagazine.Core\\NMagazine.Core.csproj|d:\\web developer\\backend\\api\\nmagazine.presentation\\nmagazine.core\\models\\basemodels\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CEC858-B46C-40F4-B1E4-9B764A88E4B9}|NMagazine.Core\\NMagazine.Core.csproj|solutionrelative:nmagazine.core\\models\\basemodels\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Data\\NMagazine.Data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NMagazine.Data\\NMagazine.Data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Core\\Models\\BaseModels\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NMagazine.Core\\Models\\BaseModels\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Core\\Models\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NMagazine.Core\\Models\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Core\\NMagazine.Core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NMagazine.Core\\NMagazine.Core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Service\\NMagazine.Service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NMagazine.Service\\NMagazine.Service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Service\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NMagazine.Service\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Presentation\\NMagazine.Presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NMagazine.Presentation\\NMagazine.Presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Presentation\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NMagazine.Presentation\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07CEC858-B46C-40F4-B1E4-9B764A88E4B9}|NMagazine.Core\\NMagazine.Core.csproj|d:\\web developer\\backend\\api\\nmagazine.presentation\\nmagazine.core\\nmagazine.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{07CEC858-B46C-40F4-B1E4-9B764A88E4B9}|NMagazine.Core\\NMagazine.Core.csproj|solutionrelative:nmagazine.core\\nmagazine.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -57,19 +141,320 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Core\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "NMagazine.Core\\Models\\Product.cs",
+              "ToolTip": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Core\\Models\\Product.cs",
+              "RelativeToolTip": "NMagazine.Core\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T19:21:25.992Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20261127130956_product.cs",
+              "DocumentMoniker": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Data\\Migrations\\20261127130956_product.cs",
+              "RelativeDocumentMoniker": "NMagazine.Data\\Migrations\\20261127130956_product.cs",
+              "ToolTip": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Data\\Migrations\\20261127130956_product.cs",
+              "RelativeToolTip": "NMagazine.Data\\Migrations\\20261127130956_product.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-27T13:09:56.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mapping.cs",
+              "DocumentMoniker": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Service\\Extensions\\Mapping.cs",
+              "RelativeDocumentMoniker": "NMagazine.Service\\Extensions\\Mapping.cs",
+              "ToolTip": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Service\\Extensions\\Mapping.cs",
+              "RelativeToolTip": "NMagazine.Service\\Extensions\\Mapping.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAnwBcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T21:56:04.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryGetDto.cs",
+              "DocumentMoniker": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Service\\DTOs\\Category\\CategoryGetDto.cs",
+              "RelativeDocumentMoniker": "NMagazine.Service\\DTOs\\Category\\CategoryGetDto.cs",
+              "ToolTip": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Service\\DTOs\\Category\\CategoryGetDto.cs",
+              "RelativeToolTip": "NMagazine.Service\\DTOs\\Category\\CategoryGetDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAvwAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T21:58:55.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductGetDto.cs",
+              "DocumentMoniker": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Service\\DTOs\\Product\\ProductGetDto.cs",
+              "RelativeDocumentMoniker": "NMagazine.Service\\DTOs\\Product\\ProductGetDto.cs",
+              "ToolTip": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Service\\DTOs\\Product\\ProductGetDto.cs",
+              "RelativeToolTip": "NMagazine.Service\\DTOs\\Product\\ProductGetDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T21:52:57.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "20261115225029_Category.cs",
               "DocumentMoniker": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Data\\Migrations\\20261115225029_Category.cs",
               "RelativeDocumentMoniker": "NMagazine.Data\\Migrations\\20261115225029_Category.cs",
               "ToolTip": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Data\\Migrations\\20261115225029_Category.cs",
               "RelativeToolTip": "NMagazine.Data\\Migrations\\20261115225029_Category.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-15T22:50:29.196Z"
+              "WhenOpened": "2026-11-15T22:50:29.196Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "CategoryUpdateDto.cs",
+              "DocumentMoniker": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Service\\DTOs\\Category\\CategoryUpdateDto.cs",
+              "RelativeDocumentMoniker": "NMagazine.Service\\DTOs\\Category\\CategoryUpdateDto.cs",
+              "ToolTip": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Service\\DTOs\\Category\\CategoryUpdateDto.cs",
+              "RelativeToolTip": "NMagazine.Service\\DTOs\\Category\\CategoryUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T21:58:37.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryCreateDto.cs",
+              "DocumentMoniker": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Service\\DTOs\\Category\\CategoryCreateDto.cs",
+              "RelativeDocumentMoniker": "NMagazine.Service\\DTOs\\Category\\CategoryCreateDto.cs",
+              "ToolTip": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Service\\DTOs\\Category\\CategoryCreateDto.cs",
+              "RelativeToolTip": "NMagazine.Service\\DTOs\\Category\\CategoryCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T21:58:22.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Service\\Services\\Implements\\ProductService.cs",
+              "RelativeDocumentMoniker": "NMagazine.Service\\Services\\Implements\\ProductService.cs",
+              "ToolTip": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Service\\Services\\Implements\\ProductService.cs",
+              "RelativeToolTip": "NMagazine.Service\\Services\\Implements\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T19:37:48.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "NMagazine.Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "NMagazine.Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T22:06:56.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Presentation\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "NMagazine.Presentation\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Presentation\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "NMagazine.Presentation\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T19:37:10.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "NMagazine.Presentation\\Program.cs",
+              "ToolTip": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Presentation\\Program.cs",
+              "RelativeToolTip": "NMagazine.Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T15:47:24.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductUpdateDto.cs",
+              "DocumentMoniker": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Service\\DTOs\\Product\\ProductUpdateDto.cs",
+              "RelativeDocumentMoniker": "NMagazine.Service\\DTOs\\Product\\ProductUpdateDto.cs",
+              "ToolTip": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Service\\DTOs\\Product\\ProductUpdateDto.cs",
+              "RelativeToolTip": "NMagazine.Service\\DTOs\\Product\\ProductUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T21:54:40.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductCreateDto.cs",
+              "DocumentMoniker": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Service\\DTOs\\Product\\ProductCreateDto.cs",
+              "RelativeDocumentMoniker": "NMagazine.Service\\DTOs\\Product\\ProductCreateDto.cs",
+              "ToolTip": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Service\\DTOs\\Product\\ProductCreateDto.cs",
+              "RelativeToolTip": "NMagazine.Service\\DTOs\\Product\\ProductCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T19:43:32.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NMagazine.Service.csproj",
+              "DocumentMoniker": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Service\\NMagazine.Service.csproj",
+              "RelativeDocumentMoniker": "NMagazine.Service\\NMagazine.Service.csproj",
+              "ToolTip": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Service\\NMagazine.Service.csproj",
+              "RelativeToolTip": "NMagazine.Service\\NMagazine.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-14T16:01:10.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20261115225029_Category.Designer.cs",
+              "DocumentMoniker": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Data\\Migrations\\20261115225029_Category.Designer.cs",
+              "RelativeDocumentMoniker": "NMagazine.Data\\Migrations\\20261115225029_Category.Designer.cs",
+              "ToolTip": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Data\\Migrations\\20261115225029_Category.Designer.cs",
+              "RelativeToolTip": "NMagazine.Data\\Migrations\\20261115225029_Category.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T03:55:15.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Service\\Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "NMagazine.Service\\Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Service\\Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "NMagazine.Service\\Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T19:38:06.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Data\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "NMagazine.Data\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Data\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "NMagazine.Data\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T19:34:52.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Data\\Repositories\\Implements\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "NMagazine.Data\\Repositories\\Implements\\GenericRepository.cs",
+              "ToolTip": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Data\\Repositories\\Implements\\GenericRepository.cs",
+              "RelativeToolTip": "NMagazine.Data\\Repositories\\Implements\\GenericRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAD4vxAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T19:27:38.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Data\\Repositories\\Implements\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "NMagazine.Data\\Repositories\\Implements\\CategoryRepository.cs",
+              "ToolTip": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Data\\Repositories\\Implements\\CategoryRepository.cs",
+              "RelativeToolTip": "NMagazine.Data\\Repositories\\Implements\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T21:58:09.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Data\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "NMagazine.Data\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Data\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "NMagazine.Data\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T21:56:16.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Service\\Services\\Implements\\CategoryService.cs",
+              "RelativeDocumentMoniker": "NMagazine.Service\\Services\\Implements\\CategoryService.cs",
+              "ToolTip": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Service\\Services\\Implements\\CategoryService.cs",
+              "RelativeToolTip": "NMagazine.Service\\Services\\Implements\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T21:50:14.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Service\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "NMagazine.Service\\Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Service\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "NMagazine.Service\\Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T21:49:43.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Presentation\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "NMagazine.Presentation\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Presentation\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "NMagazine.Presentation\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T21:44:45.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\LENOVO\\AppData\\Roaming\\Microsoft\\UserSecrets\\aee8abb6-7f56-41d9-9cdc-48c357f8b301\\secrets.json",
               "ToolTip": "C:\\Users\\LENOVO\\AppData\\Roaming\\Microsoft\\UserSecrets\\aee8abb6-7f56-41d9-9cdc-48c357f8b301\\secrets.json",
@@ -80,19 +465,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 22,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Data\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "NMagazine.Data\\Context\\AppDbContext.cs",
-              "ToolTip": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Data\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "NMagazine.Data\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Data\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "NMagazine.Data\\Contexts\\AppDbContext.cs",
+              "ToolTip": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Data\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "NMagazine.Data\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-15T22:34:38.105Z"
+              "WhenOpened": "2026-11-15T22:34:38.105Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 25,
               "Title": "NMagazine.Data.csproj",
               "DocumentMoniker": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Data\\NMagazine.Data.csproj",
               "RelativeDocumentMoniker": "NMagazine.Data\\NMagazine.Data.csproj",
@@ -100,11 +486,12 @@
               "RelativeToolTip": "NMagazine.Data\\NMagazine.Data.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-11-15T22:33:52.956Z"
+              "WhenOpened": "2026-11-15T22:33:52.956Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 30,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Core\\Models\\BaseModels\\BaseEntity.cs",
               "RelativeDocumentMoniker": "NMagazine.Core\\Models\\BaseModels\\BaseEntity.cs",
@@ -116,19 +503,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 23,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Core\\Models\\Category.cs",
               "RelativeDocumentMoniker": "NMagazine.Core\\Models\\Category.cs",
               "ToolTip": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Core\\Models\\Category.cs",
               "RelativeToolTip": "NMagazine.Core\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-14T16:07:09.066Z"
+              "WhenOpened": "2026-11-14T16:07:09.066Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 31,
               "Title": "NMagazine.Core.csproj",
               "DocumentMoniker": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Core\\NMagazine.Core.csproj",
               "RelativeDocumentMoniker": "NMagazine.Core\\NMagazine.Core.csproj",
@@ -136,23 +524,12 @@
               "RelativeToolTip": "NMagazine.Core\\NMagazine.Core.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-11-14T16:06:17.99Z"
+              "WhenOpened": "2026-11-14T16:06:17.99Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "NMagazine.Service.csproj",
-              "DocumentMoniker": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Service\\NMagazine.Service.csproj",
-              "RelativeDocumentMoniker": "NMagazine.Service\\NMagazine.Service.csproj",
-              "ToolTip": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Service\\NMagazine.Service.csproj",
-              "RelativeToolTip": "NMagazine.Service\\NMagazine.Service.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-11-14T16:01:10.92Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 26,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Service\\Class1.cs",
               "RelativeDocumentMoniker": "NMagazine.Service\\Class1.cs",
@@ -160,11 +537,12 @@
               "RelativeToolTip": "NMagazine.Service\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-14T15:56:18.5Z"
+              "WhenOpened": "2026-11-14T15:56:18.5Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 29,
               "Title": "NMagazine.Presentation.csproj",
               "DocumentMoniker": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Presentation\\NMagazine.Presentation.csproj",
               "RelativeDocumentMoniker": "NMagazine.Presentation\\NMagazine.Presentation.csproj",
@@ -172,19 +550,8 @@
               "RelativeToolTip": "NMagazine.Presentation\\NMagazine.Presentation.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-11-14T15:54:22.863Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Presentation\\Program.cs",
-              "RelativeDocumentMoniker": "NMagazine.Presentation\\Program.cs",
-              "ToolTip": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Presentation\\Program.cs",
-              "RelativeToolTip": "NMagazine.Presentation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-14T15:47:24.359Z"
+              "WhenOpened": "2026-11-14T15:54:22.863Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uDuE0LUskr8=",
+  "dgSpecHash": "1pczlpgPGto=",
   "success": true,
-  "projectFilePath": "D:\\Web Developer\\Backend\\NMagazine.Presentation\\NMagazine.Data\\NMagazine.Data.csproj",
+  "projectFilePath": "D:\\Web Developer\\Backend\\API\\NMagazine.Presentation\\NMagazine.Data\\NMagazine.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
